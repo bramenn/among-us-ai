@@ -1,6 +1,8 @@
 # Among Us en Godot: dos versiones
 
-Ejercicio para un video: el mismo reto (un juego tipo *Among Us* en **Godot 4.4 + GDScript**, sin assets externos) resuelto por dos agentes de IA distintos.
+Código del video **[Reté a 2 IAs a programar AMONG US en Godot… una se atascó y tuve que cambiarla](https://www.youtube.com/watch?v=9r_lmLY5MoQ)**.
+
+El mismo reto (un juego tipo *Among Us* en **Godot 4.4 + GDScript**, sin assets externos) resuelto por dos agentes de IA distintos.
 
 | Carpeta | Juego | Hecho con |
 |---|---|---|
